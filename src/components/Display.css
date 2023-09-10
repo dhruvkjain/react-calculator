@@ -1,0 +1,11 @@
+.display
+{
+    grid-column: span 4;
+    width: 100%;
+    text-align: right;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    background-color: rgba(2, 59, 109, 0.589);
+    border-radius: 0px 0px 10px 10px;
+}

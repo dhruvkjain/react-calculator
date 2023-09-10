@@ -1,0 +1,10 @@
+.history{
+    grid-column:span 4;
+    background-color: rgb(155, 77, 125);
+    width:100%;
+    text-align: right;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    border-radius: 10px 10px 0px 0px;
+}
